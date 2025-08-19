@@ -1,4 +1,4 @@
-![[img/integrator.jpg]]
+![Integrator](img/integrator.jpg)
 
 Интегратор - устройство позволяющее подключить JBD BMS к  контроллеру самокатов Ninebot серии G3 \ ZT3 \ F3 \ GT3 \ GT3 Pro. 
 Ключевые особенности :
