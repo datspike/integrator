@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73997f3260c46cc4",
+        "id": "921fc26c295b7cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8806953064b822",
+            "id": "42380bfe09334f35",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f571de1f609e4d0a",
+  "active": "42380bfe09334f35",
   "lastOpenFiles": [
+    "img/placement.png",
+    "JBD - Ninebot integration device.md",
+    "img/photo_2025-08-19_20-54-50.jpg",
     "updates",
     "img/integrator.jpg",
-    "JBD - Ninebot integration device.md",
     "Pasted image 20250327144833.png.md",
     "img"
   ]
