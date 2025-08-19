@@ -31,11 +31,11 @@ Key Features :
 
 ## Installation:
 
-1) ⚠️ Disable charge\discharge fets in app ⚠️![[jbd_app_fets.jpg]]
+1) ⚠️ Disable charge\discharge fets in app ⚠️![[img/jbd_app_fets.jpg]]
 2) Conect Integrator to BMS with small 4 pin connector to uart port
 3) Connect Integrator to MCU with 4pin Molex minifit connector
 4) Connect Integrator with xt90 to MCU
 5) Connect battery with xt90 to integrator
 6) Enable charge\discharge fets in app
 
-![[install_tutorial.jpg]]
+![[img/install_tutorial.jpg]]
