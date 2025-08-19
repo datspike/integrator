@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JBD - Ninebot integration device EN.md",
+                "file": "JBD - Ninebot integration device RU.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура JBD - Ninebot integration device EN"
+              "title": "Структура JBD - Ninebot integration device RU"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +186,8 @@
   "active": "42380bfe09334f35",
   "lastOpenFiles": [
     "JBD - Ninebot integration device RU.md",
-    "Readme.md",
     "JBD - Ninebot integration device EN.md",
+    "Readme.md",
     "Tutorial EN.md",
     "Инструкция RU.md",
     "img/integrator.jpg",
