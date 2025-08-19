@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "2781da18f11bd6ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "73997f3260c46cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a8806953064b822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JBD - Ninebot integration device.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JBD - Ninebot integration device"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "086c33a4c7078219",
+    "type": "split",
+    "children": [
+      {
+        "id": "072670d399f96eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e06755d522dfcfaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "190fb0f8717995b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "75daeea0ab33f450",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3c1181dd4ecf161",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bdf2d89d98e6403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dfd30a15226c3d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JBD - Ninebot integration device.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JBD - Ninebot integration device"
+            }
+          },
+          {
+            "id": "cacbafe9aaa4260b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JBD - Ninebot integration device.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JBD - Ninebot integration device"
+            }
+          },
+          {
+            "id": "4320f2f6bdc9673d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f4dd662832581ebf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JBD - Ninebot integration device.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of JBD - Ninebot integration device"
+            }
+          },
+          {
+            "id": "f571de1f609e4d0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 657.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f571de1f609e4d0a",
+  "lastOpenFiles": [
+    "updates",
+    "img/integrator.jpg",
+    "JBD - Ninebot integration device.md",
+    "Pasted image 20250327144833.png.md",
+    "img"
+  ]
+}
