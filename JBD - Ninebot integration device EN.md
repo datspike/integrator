@@ -11,6 +11,7 @@ Key Features :
 5. Sleep mode to minimize power consumption
 6. Battery connection up to 18s (need MCU modding, more info below)
 7. Charging mode display function
+8. OTA updates
 
 
 
