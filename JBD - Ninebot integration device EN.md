@@ -2,7 +2,7 @@
 
 ![Integrator](img/integrator.jpg)
 
-Integrator - device that allows you to connect JBD BMS to the controller of Ninebot G3 \ ZT3 \ F3 \ GT3 \ GT3 \ GT3 Pro series scooters. 
+Integrator - device that allows you to connect JBD BMS to the controller of Ninebot G3 \ ZT3 \ F3 \ GT3 \ GT3 Pro series scooters. 
 Key Features :
 1. Full Plug & play, no need to flash the controller or bms
 2. Supported apps:  Segway mobility, Powernine, Xiaodash
