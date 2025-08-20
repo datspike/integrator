@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c06cf19d4ea07b39",
+        "id": "921fc26c295b7cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "e6970c4f8019f49c",
+            "id": "42380bfe09334f35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JBD - Ninebot integration device EN.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "JBD - Ninebot integration device EN"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JBD - Ninebot integration device.md",
+                "file": "integrator/JBD - Ninebot integration device RU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JBD - Ninebot integration device"
+              "title": "Обратные ссылки для JBD - Ninebot integration device RU"
             }
           },
           {
@@ -162,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6970c4f8019f49c",
+  "active": "42380bfe09334f35",
   "lastOpenFiles": [
-    "2025-08-20.md",
-    "Без названия.canvas",
-    "JBD - Ninebot integration device EN.md",
     "JBD - Ninebot integration device RU.md",
+    "JBD - Ninebot integration device EN.md",
+    "integrator/JBD - Ninebot integration device EN.md",
+    "integrator/JBD - Ninebot integration device RU.md",
+    "integrator/Readme.md",
     "Readme.md",
     "Tutorial EN.md",
     "Инструкция RU.md",
