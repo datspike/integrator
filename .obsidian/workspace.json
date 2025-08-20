@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "921fc26c295b7cdd",
+        "id": "c06cf19d4ea07b39",
         "type": "tabs",
         "children": [
           {
-            "id": "42380bfe09334f35",
+            "id": "e6970c4f8019f49c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JBD - Ninebot integration device EN.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JBD - Ninebot integration device EN"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -183,10 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42380bfe09334f35",
+  "active": "e6970c4f8019f49c",
   "lastOpenFiles": [
-    "JBD - Ninebot integration device RU.md",
+    "2025-08-20.md",
+    "Без названия.canvas",
     "JBD - Ninebot integration device EN.md",
+    "JBD - Ninebot integration device RU.md",
     "Readme.md",
     "Tutorial EN.md",
     "Инструкция RU.md",
