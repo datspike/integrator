@@ -20,14 +20,14 @@ Key Features :
 
 ![Placement](img/placement.png)
 
-| Конфигурация | Сопротивление |
-| ------------ | ------------- |
-| 13s          | 200khom       |
-| 14s          | 215khom       |
-| 15s          | 230khom       |
-| 16s          | 246khom       |
-| 17s          | 260khom       |
-| 18s          | 276khom       |
+| Config | Rate    |
+| ------ | ------- |
+| 13s    | 200khom |
+| 14s    | 215khom |
+| 15s    | 230khom |
+| 16s    | 246khom |
+| 17s    | 260khom |
+| 18s    | 276khom |
 
 
 ## Installation:
