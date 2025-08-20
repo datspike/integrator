@@ -11,7 +11,7 @@ Key Features :
 5. Sleep mode to minimize power consumption
 6. Battery connection up to 18s (need MCU modding, more info below)
 7. Charging mode display function
-8. Synchronization of device time with dashboard (VCU)
+
 
 
 ⚠️ WARNING: To increase the voltage, you must replace the resistor inside the MCU that matches your voltage from the list below. Acceptable range is +5% 
