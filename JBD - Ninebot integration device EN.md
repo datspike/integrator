@@ -41,7 +41,8 @@ Key Features :
 4) Connect Integrator with xt90 to MCU
 5) Connect battery with xt90 to integrator
 6) Enable charge\discharge fets in app
-
+ 
+    Disconnection - ⚠️ in reverse order ⚠️
 
 ![tutorial](img/install_tutorial.jpg)
 
